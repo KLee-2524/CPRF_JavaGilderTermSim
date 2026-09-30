@@ -7,7 +7,7 @@ Please note that this simulator was heavily inspired by the original simulator c
 Please ensure you have the Java Development Kit (JDK) installed on your system. You can download it here: https://www.oracle.com/java/technologies/downloads/.
 
 ## Using this Simulator
-1. In your terminal, use the "cd" command to navigate to a folder where you would like to store all the files of this simulator.
-2. Run the following command: "git clone https://github.com/KLee-2524/CPRF_JavaGilderTermSim.git".
-3. Use "cd" to navigate into the "CPRF_JavaGilderTermSim" folder.
-4. Run the following command to start the simulator: "java JavaGilderTermSim.java".
+1. In your terminal, use the `cd` command to navigate to a folder where you would like to store all the files of this simulator.
+2. Run the following command: `git clone https://github.com/KLee-2524/CPRF_JavaGilderTermSim.git`.
+3. Use `cd` to navigate into the `CPRF_JavaGilderTermSim` folder.
+4. Run the following command to start the simulator: `java JavaGilderTermSim.java`.
